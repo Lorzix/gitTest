@@ -10,6 +10,7 @@ public class GitTestApplication {
 
         System.out.println("hello world4 hot-fix ");
         System.out.println("hello world5 pushTest ");
+        System.out.println("hello world5 pullTest ");
 
     }
 }
