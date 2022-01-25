@@ -8,5 +8,7 @@ public class GitTestApplication {
         System.out.println("hello world3");
         System.out.println("hello world4 master fix");
 
+        System.out.println("hello world4 hot-fix ");
+
     }
 }
